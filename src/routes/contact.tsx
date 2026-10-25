@@ -27,7 +27,7 @@ function Contact() {
       <div className="mx-auto mt-14 grid max-w-5xl gap-10 px-4 md:grid-cols-5">
         <div className="space-y-4 md:col-span-2">
           <div className="rounded-xl bg-card p-5 shadow-card"><p className="text-xs text-muted-foreground">العنوان</p><p className="font-bold">التجمع الخامس، القاهرة الجديدة</p></div>
-          <div className="rounded-xl bg-card p-5 shadow-card"><p className="text-xs text-muted-foreground">التليفون</p><p className="font-bold" dir="ltr">+20 100 000 0000</p></div>
+          <div className="rounded-xl bg-card p-5 shadow-card"><p className="text-xs text-muted-foreground">التليفون</p><p className="font-bold" dir="ltr">+20 1061378290</p></div>
           <div className="rounded-xl bg-card p-5 shadow-card"><p className="text-xs text-muted-foreground">مواعيد العمل</p><p className="font-bold">السبت - الخميس، 10ص - 8م</p></div>
         </div>
         <form onSubmit={(e) => { e.preventDefault(); setSent(true); }} className="space-y-4 rounded-2xl bg-card p-6 shadow-card md:col-span-3">

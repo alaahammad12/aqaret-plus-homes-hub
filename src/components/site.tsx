@@ -39,7 +39,7 @@ export function Footer() {
         <div className="text-sm opacity-90 space-y-2">
           <p className="font-bold">تواصل</p>
           <p>التجمع الخامس، القاهرة الجديدة</p>
-          <p dir="ltr" className="text-right">+20 100 000 0000</p>
+          <p dir="ltr" className="text-right">+20 1061378290</p>
           <p>info@daralsakan.com</p>
         </div>
       </div>
