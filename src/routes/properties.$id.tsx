@@ -46,7 +46,7 @@ function Detail() {
           <p className="text-sm text-muted-foreground">السعر</p>
           <p className="mt-1 font-display text-2xl text-primary">{formatPrice(p)}</p>
           <Link to="/contact" search={{ property: p.title }} className="mt-6 block rounded-full bg-primary py-3 text-center font-bold text-primary-foreground">احجز معاينة</Link>
-          <a href="https://wa.me/201000000000" className="mt-3 block rounded-full border py-3 text-center font-bold">واتساب</a>
+          <a href="https://wa.me/0201061378290" className="mt-3 block rounded-full border py-3 text-center font-bold">واتساب</a>
         </aside>
       </div>
     </div>
